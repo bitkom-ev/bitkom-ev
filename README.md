@@ -1,6 +1,6 @@
 - 👋 Hi, I’m k.tadesse@bitkom.org
-- 👀 I’m interested in any way to simplify working with drupal 8 / 9
-- 🌱 I’m currently learning how to move drupal multisite installations
+- 👀 I’m interested in any way to simplify working with Drupal 9 / 10 / 11
+- 🌱 I’m currently learning how to use AI in Drupal
 
 Bitkom e.V.
 Berlin, Germany
