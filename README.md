@@ -1,4 +1,4 @@
-- 👋 Hi, I’m k.tadesse@bitkom.org currently developing Drupal Websites for Bitkom e.V.
+- 👋 Hi, I’m web@bitkom.org currently developing Drupal Websites for Bitkom e.V.
 - 👀 I’m interested in any way to simplify working with Drupal 9 / 10 / 11
 - 🌱 I’m currently learning how to use AI in Drupal
 
